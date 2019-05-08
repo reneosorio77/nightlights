@@ -1,5 +1,6 @@
 #PROJECT: NIGHTLIGHTS PROXY FOR ECONOMIC ACTIVITY from 2000-2013
 #OBJECTIVE: DOWNLOAD IMAGES IN COMPRESSED FORMAT TAR
+#SOURCE WEBSITE: https://www.ngdc.noaa.gov/eog/data/web_data/v4composites/
 
 
 setwd('C:/Users/JuanPerez/nightlights') # Set working directory to where you download your images
